@@ -1,5 +1,18 @@
 # Mining_Massive_Data
 
+
+Authors:
+
+- Akshay Arun Deshpande 
+
+- Chaitanya Mundle
+
+- Poojitha Tarasani
+
+- Srivathsan Mohan
+
+- Supreeth Ramakrishna
+
 Links for Datasets:
 
 1. Source: United States Geological Survey (Water Data)
