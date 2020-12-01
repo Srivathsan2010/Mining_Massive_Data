@@ -14,5 +14,7 @@ Links for Datasets:
 Description of Jupyter Notebooks:
 
 1_Water_Pollution_Predictor_Data_Processing - Loading and merging datasets, Data Cleaning Process along with visualizing different attributes of the Datasets.
+
 2_Water_Pollution_Predictor_Visualization_Results - Analyzing different factors influencing water toxcitiy and creating a correaltion between them.
+
 3_Water_Pollution_Predictor_Model_Results - Implementing Machine Learning Algorithms to do the prediction for water toxicity. 
